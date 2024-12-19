@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 YouTube comments</h2>
 
-![YouTube dataset header](https://github.com/luminati-io/Etsy-dataset-sample/blob/main/Etsy-dataset.png)
+![YouTube dataset header](https://github.com/luminati-io/YouTube-dataset-sample/blob/main/YouTube-dataset.png)
 
 A YouTube dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
