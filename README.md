@@ -26,6 +26,10 @@ And a lot more.
 This is a sample subset which is derived from the "YouTube comments"
 dataset which includes more than <b>11.1M records</b>.
 
+Other available YouTube datasets:
+YouTube posts dataset which includes <b>1.3B records</b>
+YouTube profiles dataset which includes <b>29.6M records</b> 
+
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
 Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
